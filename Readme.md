@@ -504,7 +504,7 @@ Solutions may improve over time as I learn better algorithms, data structures, a
 
 ## Author
 
-**Nisha**
+**Nisha Patwal**
 
 B.Tech Computer Science & Engineering
 
