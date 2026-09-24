@@ -19,4 +19,5 @@ public class SecondLargestElementArray {
         }
         System.out.println("Second largest: " + second);
     }
+    
 }
