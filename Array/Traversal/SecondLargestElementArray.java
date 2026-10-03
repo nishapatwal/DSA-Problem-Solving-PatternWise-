@@ -1,4 +1,4 @@
-package Array.Travelsal;
+package Array.Traversal;
 public class SecondLargestElementArray {
     public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-package Array.Travelsal;
+package Array.Traversal;
 
 public class LargestElementArray {
        public static int findLargestElement(int[] arr) {
